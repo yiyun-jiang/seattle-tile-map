@@ -4,7 +4,7 @@ This repo contains four different tile sets built with Mapbox, QGIS, and QMetaTi
 
 ### Web Map Link
 The web map can be found here:
-[Live Web Map]()
+[Live Web Map](https://yiyun-jiang.github.io/seattle-tile-map/index.html)
 
 ### Screenshots of the Four Tile Layers
 
